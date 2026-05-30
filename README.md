@@ -3,8 +3,10 @@
 I am a third year student at San Jose State University studying Data Science with a Minor in Statistics<br/>
 
 ## Relevant Projects: 
-### [Energy-Consumption-Predictor](https://github.com/surabhibage/Energy-Consumption-Predictor)
-
+### [Energy Consumption Predictor](https://github.com/surabhibage/Energy-Consumption-Predictor)
+### [Full Stack Photo Album Application](https://github.com/surabhibage/Photo-Album-App)
+### [Finance Data Anlysis](https://github.com/sjsu-cs131-f25/team3-finance-analysis)
+### [Analysis of Social Impact of AI](https://github.com/surabhibage/Analysis_Social_Impact_Of_AI)
 <!--
 **surabhibage/surabhibage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
