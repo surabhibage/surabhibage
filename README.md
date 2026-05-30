@@ -1,6 +1,4 @@
 # Hello, I'm Surabhi! 👋
-<h1 style="display:inline;">Your Header Text</h1>
-<p><font size="6"><b>Your Header Text</b></font></p>
 
 I am a third year student at San Jose State University studying Data Science with a Minor in Statistics<br/>
 
