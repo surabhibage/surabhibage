@@ -4,7 +4,7 @@ I am a third year student at San Jose State University studying Data Science wit
 
 ## Relevant Projects: 
 ### [Energy Consumption Predictor](https://github.com/surabhibage/Energy-Consumption-Predictor)
-### [Full Stack Photo Album Application](https://github.com/surabhibage/Photo-Album-App)
+### [Full Stack Photo Album Application](https://github.com/surabhibage/Photo-Album-App/tree/master)
 ### [Finance Data Anlysis](https://github.com/sjsu-cs131-f25/team3-finance-analysis)
 ### [Analysis of Social Impact of AI](https://github.com/surabhibage/Analysis_Social_Impact_Of_AI)
 <!--
