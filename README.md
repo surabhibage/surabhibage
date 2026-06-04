@@ -1,12 +1,50 @@
 # Hello, I'm Surabhi! 👋
 
-I am a third year student at San Jose State University studying Data Science with a Minor in Statistics<br/>
+I am a third year student at San Jose State University studying Data Science with a Minor in Statistics!<br/>
 
-## Relevant Projects: 
-### [Energy Consumption Predictor](https://github.com/surabhibage/Energy-Consumption-Predictor)
-### [Full Stack Photo Album Application](https://github.com/surabhibage/Photo-Album-App/tree/master)
-### [Finance Data Anlysis](https://github.com/sjsu-cs131-f25/team3-finance-analysis)
-### [Analysis of Social Impact of AI](https://github.com/surabhibage/Analysis_Social_Impact_Of_AI/blob/main/social_impact_ai%20(5).ipynb)
+# Languages, Tools and Frameworks: 
+|  |  |
+|:---|:---|
+| **🔹 Programming Languages** | Python, Java, R, SQL |
+| **🔹 Data Analysis & Visualization** | Pandas, Seaborn, Excel |
+| **🔹 Cloud** | AWS, Google Cloud Platform (GCP), Spark |
+| **🔹 Operating Systems & Scripting** | Unix, Linux, Shell Scripting |
+| **🔹 Project Management & Documentation** | Jira, Notion, Zentrik, Git |
+
+<!--
+**Programming Languages:** Python, Java, R, SQL
+
+**Data Analysis & Visualization:** Pandas, Seaborn, Excel
+
+**Cloud:** AWS, Google Cloud Platform (GCP), Spark
+
+**Operating Systems & Scripting:** Unix, Linux, Shell Scripting
+
+**Project Management & Documentation:** Jira, Notion, Zentrik, Git
+
+Programming Languages: Python, Java, R, SQL<br/>
+Data Analysis & Visualization: Pandas, Seaborn, Excel<br/>
+Cloud: AWS, Google Cloud Platform (GCP), Spark<br/>
+Operating Systems & Scripting: Unix, Linux, Shell Scripting<br/>
+Project Management & Documentation: Jira, Notion, Zentrik, Git<br/>
+
+🔹 **Programming Languages:** Python, Java, R, SQL
+
+🔹 **Data Analysis & Visualization:** Pandas, Seaborn, Excel
+
+🔹 **Cloud:** AWS, Google Cloud Platform (GCP), Spark
+
+🔹 **Operating Systems & Scripting:** Unix, Linux, Shell Scripting
+
+🔹 **Project Management & Documentation:** Jira, Notion, Zentrik, Git
+-->
+
+# Relevant Projects: 
+## [💡Energy Consumption Predictor](https://github.com/surabhibage/Energy-Consumption-Predictor)
+## [🏞️ Full Stack Photo Album Application](https://github.com/surabhibage/Photo-Album-App/tree/master)
+## [📈 Finance Data Anlysis](https://github.com/sjsu-cs131-f25/team3-finance-analysis)
+## [📊 Analysis of Social Impact of AI](https://github.com/surabhibage/Analysis_Social_Impact_Of_AI/blob/main/social_impact_ai%20(5).ipynb)
+
 <!--
 **surabhibage/surabhibage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
