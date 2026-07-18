@@ -65,7 +65,8 @@ behavioral patterns to perform data analytics.<br/>
 validated via Spark UI.<br/>
 
 ## [📊 Analysis of Social Impact of AI](https://github.com/surabhibage/Analysis_Social_Impact_Of_AI/blob/main/social_impact_ai%20(5).ipynb)
-
+• Analyzed the job loss for different industries over time, human-AI collaboration trends to understand the social impact of AI in the social sphere.<br/>
+• Used GG plots, boxplots aggregation functions, sorting through R code to transform data into visual insights.<br/>
 <!--
 **surabhibage/surabhibage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
