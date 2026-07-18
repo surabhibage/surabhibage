@@ -56,7 +56,7 @@ expansion and maintenance.<br/>
 • Enabled dynamic user functionality, including navigation, add/delete operations, and multi-criteria sorting (name, date, size) via
 iterators, verified through UML class diagrams and testing workflows.<br/>
 
-## [📈 Finance Data Anlysis](https://github.com/sjsu-cs131-f25/team3-finance-analysis)
+## [📈 Finance Data Analysis](https://github.com/sjsu-cs131-f25/team3-finance-analysis)
 • Prepared raw CSV data for analysis using awk/sed to clean formats, remove outliers, and validate quality, enabling reliable
 financial insights.<br/>
 • Built a Spark + Parquet pipeline to aggregate income, expenses, and savings by region, gender, and education to uncover
